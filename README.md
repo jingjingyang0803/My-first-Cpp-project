@@ -21,9 +21,10 @@ The Grade Counter Application is developed as a part of TAMK course *****5G00DL9
 
 ## **How to Run**
 
-1. Compile the program using a C++ compiler like **`g++`**.
-2. Run the compiled program.
-3. Follow the on-screen menu to select an option by entering a number (0-6). 
+1. Clone the project and navigate to its folder.
+2. Compile your files using the command `g++ -o grade_counter grade_counter.cpp grade_counter_definition.cpp`.
+3. Run the compiled program with the command `./grade_counter`.
+4. Follow the on-screen menu and select an option by entering a number (0-6). 
 
 ## **Structure**
 
