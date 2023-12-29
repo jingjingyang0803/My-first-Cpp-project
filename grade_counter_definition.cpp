@@ -8,7 +8,7 @@
  ***************************************************************************/
 void showMenu()
 {
-	cout << "\t***| ¡ª ¡ª ¡ª ¡ª********¡ª ¡ª ¡ª ¡ª|***" << endl;
+	cout << "\t***|========== ******** ===========|***" << endl;
 	cout << "\t***| 1.Add student                 |***" << endl;
 	cout << "\t***| 2.Print students Alphabeticaly|***" << endl;
 	cout << "\t***| 3.Print students by grade     |***" << endl;
@@ -16,7 +16,7 @@ void showMenu()
 	cout << "\t***| 5.Search student by grade     |***" << endl;
 	cout << "\t***| 6.Reset emphasis              |***" << endl;
 	cout << "\t***| 0.Exit                        |***" << endl;
-	cout << "\t***| ¡ª ¡ª ¡ª ¡ª ¡ª ¡ª ¡ª ¡ª ¡ª ¡ª |***" << endl;
+	cout << "\t***|===============================|***" << endl;
 
 	cout << "\t   Welcome to Grade Mangement System! " << endl;//welcome message
 	cout << " Please select a Function from the menu by entering a number 0-6: " << endl;//a prompt to insturct the user to choose a subfunction
