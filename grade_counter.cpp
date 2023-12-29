@@ -1,4 +1,4 @@
-#include "grade counter.h"
+#include "grade_counter.h"
 
 /*******************-----Main Function-----*********************************/
 
